@@ -1,0 +1,10 @@
+C:\Users\JaminTc\Desktop\GitHub\FirstApp\myBaseOrchistration\MyFirstApp.API.DomainModel\bin\Debug\MyBaseOrchistartion.API.DomainModel.dll
+C:\Users\JaminTc\Desktop\GitHub\FirstApp\myBaseOrchistration\MyFirstApp.API.DomainModel\bin\Debug\MyBaseOrchistartion.API.DomainModel.pdb
+C:\Users\JaminTc\Desktop\GitHub\FirstApp\myBaseOrchistration\MyFirstApp.API.DomainModel\obj\Debug\MyBaseOrchistartion.API.DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\JaminTc\Desktop\GitHub\FirstApp\myBaseOrchistration\MyFirstApp.API.DomainModel\obj\Debug\MyBaseOrchistartion.API.DomainModel.dll
+C:\Users\JaminTc\Desktop\GitHub\FirstApp\myBaseOrchistration\MyFirstApp.API.DomainModel\obj\Debug\MyBaseOrchistartion.API.DomainModel.pdb
+C:\Users\JaminTc\Desktop\GitHub\FirstApp\myBaseOrchistration\MyBaseOrchistartion.API.DomainModel\bin\Debug\MyBaseOrchistartion.API.DomainModel.dll
+C:\Users\JaminTc\Desktop\GitHub\FirstApp\myBaseOrchistration\MyBaseOrchistartion.API.DomainModel\bin\Debug\MyBaseOrchistartion.API.DomainModel.pdb
+C:\Users\JaminTc\Desktop\GitHub\FirstApp\myBaseOrchistration\MyBaseOrchistartion.API.DomainModel\obj\Debug\MyBaseOrchistartion.API.DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\JaminTc\Desktop\GitHub\FirstApp\myBaseOrchistration\MyBaseOrchistartion.API.DomainModel\obj\Debug\MyBaseOrchistartion.API.DomainModel.dll
+C:\Users\JaminTc\Desktop\GitHub\FirstApp\myBaseOrchistration\MyBaseOrchistartion.API.DomainModel\obj\Debug\MyBaseOrchistartion.API.DomainModel.pdb
