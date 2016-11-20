@@ -111,11 +111,11 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MyBaseOrchistartion.API.Buisness\MyBaseOrchestration.API.Buisness.csproj">
+    <ProjectReference Include="..\MyBaseOrchestration.API.Buisness\MyBaseOrchestration.API.Buisness.csproj">
       <Project>{b0b16941-babc-46d4-91e1-6284939a4168}</Project>
       <Name>MyBaseOrchestration.API.Buisness</Name>
     </ProjectReference>
-    <ProjectReference Include="..\MyBaseOrchistartion.API.ServiceDefinition\MyBaseOrchestration.API.ServiceDefinition.csproj">
+    <ProjectReference Include="..\MyBaseOrchestration.API.ServiceDefinition\MyBaseOrchestration.API.ServiceDefinition.csproj">
       <Project>{876c9c12-a92e-4bf6-979d-0e6ea8444f7d}</Project>
       <Name>MyBaseOrchestration.API.ServiceDefinition</Name>
     </ProjectReference>

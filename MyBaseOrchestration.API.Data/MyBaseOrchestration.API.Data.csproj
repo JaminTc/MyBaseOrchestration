@@ -93,7 +93,7 @@
     <Folder Include="Mappers\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MyBaseOrchistartion.API.DomainModel\MyBaseOrchestration.API.DomainModel.csproj">
+    <ProjectReference Include="..\MyBaseOrchestration.API.DomainModel\MyBaseOrchestration.API.DomainModel.csproj">
       <Project>{ddf3cf83-35b1-4577-b2f8-b98142fd111e}</Project>
       <Name>MyBaseOrchestration.API.DomainModel</Name>
     </ProjectReference>

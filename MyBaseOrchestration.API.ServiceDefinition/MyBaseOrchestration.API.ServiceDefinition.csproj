@@ -81,15 +81,15 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MyBaseOrchistartion.API.Buisness\MyBaseOrchestration.API.Buisness.csproj">
+    <ProjectReference Include="..\MyBaseOrchestration.API.Buisness\MyBaseOrchestration.API.Buisness.csproj">
       <Project>{b0b16941-babc-46d4-91e1-6284939a4168}</Project>
       <Name>MyBaseOrchestration.API.Buisness</Name>
     </ProjectReference>
-    <ProjectReference Include="..\MyBaseOrchistartion.API.DomainModel\MyBaseOrchestration.API.DomainModel.csproj">
+    <ProjectReference Include="..\MyBaseOrchestration.API.DomainModel\MyBaseOrchestration.API.DomainModel.csproj">
       <Project>{ddf3cf83-35b1-4577-b2f8-b98142fd111e}</Project>
       <Name>MyBaseOrchestration.API.DomainModel</Name>
     </ProjectReference>
-    <ProjectReference Include="..\MyBaseOrchistartion.API.ServiceModel\MyBaseOrchestration.API.ServiceModel.csproj">
+    <ProjectReference Include="..\MyBaseOrchestration.API.ServiceModel\MyBaseOrchestration.API.ServiceModel.csproj">
       <Project>{f76a9dd8-f8dd-4d15-9161-b7189c15c46e}</Project>
       <Name>MyBaseOrchestration.API.ServiceModel</Name>
     </ProjectReference>
